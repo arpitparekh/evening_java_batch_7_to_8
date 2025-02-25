@@ -1,0 +1,11 @@
+compiler
+.java // high level language
+10101010 // machine language
+
+
+.java => javac(compiler) => .class(imtermediate code) => jvm => 101010101
+
+// python interpreter // line by line
+.py => python(interpreter) => 101010101
+
+// c => compiler => GDC => TDM => 
