@@ -15,8 +15,6 @@ public class MyClass{
     int c = a + b;
 
     System.out.println(c);
-
-
   }
 
 }
