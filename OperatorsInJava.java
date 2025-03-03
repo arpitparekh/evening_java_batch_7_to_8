@@ -27,7 +27,7 @@ public class OperatorsInJava {
     System.out.println(12789 % 10); // last digit
     System.out.println(12789 / 10); // remove last digit
 
-    // relational operator
+    // relational operator  // conditional operator
     // < > <= >= ==  !=
     // return boolean
 
@@ -68,7 +68,6 @@ public class OperatorsInJava {
 
     // conditional statement
     // ternary operator ?:
-
 
   }
 

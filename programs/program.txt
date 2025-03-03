@@ -1,0 +1,3 @@
+// max of 4 numbers
+// max of 5 numbers
+//  even or odd.
