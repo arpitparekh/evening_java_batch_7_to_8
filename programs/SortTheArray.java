@@ -7,7 +7,7 @@ public class SortTheArray {
   public static void main(String[] args) {
 
     int[] arr = { 4, 65, 8, 7, 5, 4, 4, 658, 89 };
-    //            0  1  2  3  4  5  6  7  8
+    // 0 1 2 3 4 5 6 7 8
 
     // assending order
     // bubble sort
@@ -30,18 +30,10 @@ public class SortTheArray {
 
     System.out.println(Arrays.toString(arr));
 
-
-
-
-
-
-
-
-
     // swapping a variable using third variable
 
-    // int a = 12; // 25   // 13
-    // int b = 13; // 13  // 12
+    // int a = 12; // 25 // 13
+    // int b = 13; // 13 // 12
 
     // // temp = a;
     // // a = b;
@@ -52,7 +44,6 @@ public class SortTheArray {
 
     // System.out.println(a);
     // System.out.println(b);
-
 
   }
 
