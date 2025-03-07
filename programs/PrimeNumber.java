@@ -2,13 +2,7 @@ package programs;
 
 public class PrimeNumber {
 
-  public static void main(String[] args) {
-
-    // prime number
-    // prime number is a number that is divisible by 1 and itself
-
-    int num = 101; // 2..12 // 55 // 2..54 // 77 // 2..76
-
+  static void checkPrime(int num) {
     boolean b = true;
 
     for (int i = 2; i < num; i++) { // 2..12
@@ -25,6 +19,16 @@ public class PrimeNumber {
     } else {
       System.out.println("not prime number");
     }
+  }
+
+  public static void main(String[] args) {
+
+    // prime number
+    checkPrime(12);
+    checkPrime(23);
+    checkPrime(33);
+    checkPrime(79);
+    checkPrime(73);
 
   }
 
