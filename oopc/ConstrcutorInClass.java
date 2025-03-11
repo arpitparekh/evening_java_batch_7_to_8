@@ -31,6 +31,10 @@ class Circle {
     System.out.println("area: " + a);
   }
 
+  void perimeter() {
+    double p = 2 * 3.14 * radius;
+    System.out.println("perimeter: " + p);
+  }
 }
 
 public class ConstrcutorInClass {
