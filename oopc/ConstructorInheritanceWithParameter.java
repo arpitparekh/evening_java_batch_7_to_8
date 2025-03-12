@@ -9,7 +9,6 @@ class Laptop {
     name = n;
     price = p;
   }
-
 }
 
 class Keyboard extends Laptop {
@@ -31,6 +30,11 @@ public class ConstructorInheritanceWithParameter {
     System.out.println(kb.name);
     System.out.println(kb.price);
     System.out.println(kb.no_of_keys);
+
+    // wrapper class
+    // primitive to object
+    // Scanner class
+    // Encapsulation
 
   }
 
